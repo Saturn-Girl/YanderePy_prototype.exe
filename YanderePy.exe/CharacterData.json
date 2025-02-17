@@ -1,0 +1,202 @@
+{
+  "Character1": {
+    "Name": "Lisa",
+    "Nickname": "PythonChan",
+    "Age": 18,
+    "Gender": "Female"
+  },
+  "Character2": {
+    "Name": "Yuki",
+    "Nickname": "Au microscopii b chan",
+    "Age": 18,
+    "Gender": "Female"
+  },
+  "Character3": {
+    "Name": "Unknown",
+    "Nickname": "SaturnDevA",
+    "Age": 12,
+    "Gender": "Male"
+  },
+  "Character4": {
+    "Name": "Unknown",
+    "Nickname": "SaturnDevB",
+    "Age": 19,
+    "Gender": "Male"
+  },
+  "Character5": {
+    "Name": "Ayano",
+    "Nickname": "Yandere-Chan",
+    "Age": 18,
+    "Gender": "Female"
+  },
+  "Character6": {
+    "Name": "KingA",
+    "Nickname": "KingB",
+    "Age": 19,
+    "Gender": "Male"
+  },
+  "Character7": {
+    "Name": "KingA",
+    "Nickname": "KingA",
+    "Age": 12,
+    "Gender": "Male"
+  },
+  "Character8": {
+    "Name": "AndrewA",
+    "Nickname": "AndrewA",
+    "Age": 19,
+    "Gender": "Male"
+  },
+  "Character9": {
+    "Name": "AndrewB",
+    "Nickname": "AndrewB",
+    "Age": 12,
+    "Gender": "Female"
+  }
+  "Character10": {
+  	"Name": "AryaA",
+	"Nickname":"Arya"
+	"age":18
+  }
+  "Character11": {
+  	"Name": "AryaB",
+	"Nickname":"Arya"
+	"age":12
+  }
+}
+
+{
+  "CharacterPlaceholder1": {
+    "Name": "PlaceholderChan",
+    "Nickname": "None",
+    "Age": 19,
+    "Gender": "Female"
+  },
+  "Character2": {
+    "Name": "Yuki",
+    "Nickname": "Au microscopii b chan",
+    "Age": 18,
+    "Gender": "Female"
+  },
+  "Character3": {
+    "Name": "Unknown",
+    "Nickname": "SaturnDevA",
+    "Age": 12,
+    "Gender": "Male"
+  },
+  "Character4": {
+    "Name": "Unknown",
+    "Nickname": "SaturnDevB",
+    "Age": 19,
+    "Gender": "Male"
+  },
+  "Character5": {
+    "Name": "Ayano",
+    "Nickname": "Yandere-Chan",
+    "Age": 18,
+    "Gender": "Female"
+  },
+  "Character6": {
+    "Name": "KingA",
+    "Nickname": "KingB",
+    "Age": 19,
+    "Gender": "Male"
+  },
+  "Character7": {
+    "Name": "KingA",
+    "Nickname": "KingA",
+    "Age": 12,
+    "Gender": "Male"
+  },
+  "Character8": {
+    "Name": "AndrewA",
+    "Nickname": "AndrewA",
+    "Age": 19,
+    "Gender": "Male"
+  },
+  "Character9": {
+    "Name": "AndrewB",
+    "Nickname": "AndrewB",
+    "Age": 12,
+    "Gender": "Female"
+  }
+  "Character10": {
+  	"Name": "AryaA",
+	"Nickname":"Arya"
+	"age":18
+  }
+  "Character11": {
+  	"Name": "AryaB",
+	"Nickname":"Arya"
+	"age":12
+  }
+}
+
+
+{
+  "Character1": {
+    "Name": "Lisa",
+    "Nickname": "PythonChan",
+    "Age": 18,
+    "Gender": "Female"
+  },
+  "Character2": {
+    "Name": "Yuki",
+    "Nickname": "Au microscopii b chan",
+    "Age": 18,
+    "Gender": "Female"
+  },
+  "Character3": {
+    "Name": "Unknown",
+    "Nickname": "SaturnDevA",
+    "Age": 12,
+    "Gender": "Male"
+  },
+  "Character4": {
+    "Name": "Unknown",
+    "Nickname": "SaturnDevB",
+    "Age": 19,
+    "Gender": "Male"
+  },
+  "Character5": {
+    "Name": "Ayano",
+    "Nickname": "Yandere-Chan",
+    "Age": 18,
+    "Gender": "Female"
+  },
+  "Character6": {
+    "Name": "KingA",
+    "Nickname": "KingB",
+    "Age": 19,
+    "Gender": "Male"
+  },
+  "Character7": {
+    "Name": "KingA",
+    "Nickname": "KingA",
+    "Age": 12,
+    "Gender": "Male"
+  },
+  "Character8": {
+    "Name": "AndrewA",
+    "Nickname": "AndrewA",
+    "Age": 19,
+    "Gender": "Male"
+  },
+  "Character9": {
+    "Name": "AndrewB",
+    "Nickname": "AndrewB",
+    "Age": 12,
+    "Gender": "Female"
+  }
+  "Character10": {
+  	"Name": "AryaA",
+	"Nickname":"Arya"
+	"age":18
+  }
+  "Character11": {
+  	"Name": "AryaB",
+	"Nickname":"Arya"
+	"age":12
+  }
+}
+

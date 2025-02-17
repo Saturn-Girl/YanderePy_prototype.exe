@@ -1,0 +1,36 @@
+"Header":"RB":"Dialogue":{
+	"Character0":"DialogueNumber":"0":"Name":"Yuki":"Nickname":"Au microscopii b chan":{
+		"Dialogue":"Hey can you please write me a python program":{
+			"answear":"Yes":{
+				"Dialogue":"Yuki":"Thanks Python-Chan"
+			}
+			"answear":"no":{
+				"Dialogue":"Yuki":"I think i made a mistake"
+			}
+		}
+	}
+	"Character1":"DialogueNumber":"1":"Name":"Ayano":"Nickname":"Yandere-Chan":{
+		"Dialogue":"Hey can you have my knife":{
+			"answear":"Yes":{
+				"Dialogue":"Yandere-Chan":"I'm glad you wanted the knife python chan"
+			}
+			"answear":"no":{
+				"Dialogue":"Yandere-Chan":"You do not like the kinfe ok then"
+			}
+		}
+	}
+	"Character3":"DialogueNumber":"3":"Name":"SaturnDev A":"Nickname":"senpai":{
+		"Dialogue":"Hey can you have my knife":{
+			"Status":"Strange":{
+				"Dialogue":"Senpai":"What wrong with python chan"
+			}
+		}
+	}
+}
+
+"Ending":"True":{
+	"Character666":"Name":"Lofi Chan":"Dialogue":{
+		"Dialogue":"Lofi-Chan":"Wait what is happening the d-d-d-d-data is g-g-g-g-g-gone"
+		"Dialogue":"Lofi-Chan":"Pleas d-do-do-d-d-do not delete YanderePy_System f-f-folder"
+	}
+}

@@ -1,0 +1,11 @@
+{
+  "Player": {
+    "Name": "Python-Chan",
+    "Age": 17
+  },
+  "Game": {
+    "Name": "YanderePy",
+    "Engine": "Cppgame and Pygame",
+    "ProgrammingLanguages": ["Python", "C++"]
+  }
+}
